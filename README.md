@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img width="100%" src="./assets/banner.png" alt="Banner Pablo Henao"/>
+  <img width="100%" src="./assets/banner2.png" alt="Banner Pablo Henao"/>
 </div>
 
 <br/>
