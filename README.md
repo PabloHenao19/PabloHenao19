@@ -1,8 +1,4 @@
 <div align="center">
-  <img width="100%" src="./assets/banner.png" alt="Pablo Henao Banner"/>
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Hola%2C+soy+Pablo+Henao!;Tecnologo+en+Analisis+y+Desarrollo+de+Software;TypeScript+%7C+React+%7C+JavaScript+%7C+Python;Construyendo+desde+Colombia+para+el+mundo" alt="Typing SVG" />
 </div>
 
